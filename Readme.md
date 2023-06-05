@@ -1,3 +1,6 @@
+Intro to Game Dev Workshop timing: 6th June 7-8 pm.  
+Workshop recording will be uploaded here.  
+  
 So you have to recreate the following game along with some changes. A gameplay clip is given for your reference.
 
 https://user-images.githubusercontent.com/87766488/175813515-858ad13c-3dcc-4b34-9f0e-ca69d0938683.mp4
